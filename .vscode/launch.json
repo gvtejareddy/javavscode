@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Modifiers<javavs>",
+            "request": "launch",
+            "mainClass": "app.Modifiers",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac14<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac14",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac15<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac15",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac16<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac16",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac17<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac17",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac18<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac18",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac19<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac19",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac20<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac20",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac21<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac21",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac22e<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac22e",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prac23e<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.prac23e",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-praceight<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.praceight",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pracele<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.pracele",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pracfive<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.pracfive",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pracfour<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.pracfour",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pracone<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.pracone",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pracsix<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.pracsix",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practen<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practen",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practhr<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practhr",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practhree<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practhree",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practnine<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practnine",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practtwe<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practtwe",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practwo<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.practwo",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-procseven<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.procseven",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-solone<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.solone",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-soltwo<javavs>",
+            "request": "launch",
+            "mainClass": "hackerrank.soltwo",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lemur<javavs>",
+            "request": "launch",
+            "mainClass": "polymorph.Lemur",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Primate<javavs>",
+            "request": "launch",
+            "mainClass": "polymorph.Primate",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-protectedclassmod<javavs>",
+            "request": "launch",
+            "mainClass": "protectedpackage.protectedclassmod",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProductCatalogue<javavs>",
+            "request": "launch",
+            "mainClass": "shipment.ProductCatalogue",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hackerrank<javavs>",
+            "request": "launch",
+            "mainClass": "shipment.hackerrank",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shipment<javavs>",
+            "request": "launch",
+            "mainClass": "shipment.shipment",
+            "projectName": "javavs"
+        }
+    ]
+}
