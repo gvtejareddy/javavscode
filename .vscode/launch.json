@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - searchformlist",
+            "request": "launch",
+            "mainClass": "baeldung.searchformlist",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - removeduplicate",
+            "request": "launch",
+            "mainClass": "baeldung.removeduplicate",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - nulllist",
+            "request": "launch",
+            "mainClass": "baeldung.nulllist",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ballinkedlist",
             "request": "launch",
             "mainClass": "baeldung.ballinkedlist",

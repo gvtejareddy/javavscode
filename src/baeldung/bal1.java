@@ -62,5 +62,10 @@ public class bal1 {
 
         Random rand = new Random();
         System.out.println(rand.nextInt());
+        System.out.println(rand.nextInt());
+
+        List<String> nullList = new ArrayList<String>();
+
+        nullList.add(null);
     }
 }
