@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ballinkedlist",
+            "request": "launch",
+            "mainClass": "baeldung.ballinkedlist",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - bal1",
+            "request": "launch",
+            "mainClass": "baeldung.bal1",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
