@@ -36,4 +36,9 @@ public class Customer {
         this.place = place;
     }
 
+    @Override
+    public String toString() {
+        return "Customer [id=" + id + ", name=" + name + ", place=" + place + "]";
+    }
+
 }

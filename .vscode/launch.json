@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - balarraytolist",
+            "request": "launch",
+            "mainClass": "baeldung.balarraytolist",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balhashset",
+            "request": "launch",
+            "mainClass": "baeldung.balhashset",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balelduncomparatorandcomparable",
+            "request": "launch",
+            "mainClass": "baeldung.balelduncomparatorandcomparable",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balsorthashmap",
+            "request": "launch",
+            "mainClass": "baeldung.balsorthashmap",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balhashmapsaveduplicatekeys",
+            "request": "launch",
+            "mainClass": "baeldung.balhashmapsaveduplicatekeys",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balenummap",
+            "request": "launch",
+            "mainClass": "baeldung.balenummap",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - baltreemap",
+            "request": "launch",
+            "mainClass": "baeldung.baltreemap",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balhashmap",
+            "request": "launch",
+            "mainClass": "baeldung.balhashmap",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - searchformlist",
             "request": "launch",
             "mainClass": "baeldung.searchformlist",
