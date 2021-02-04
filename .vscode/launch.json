@@ -5,6 +5,48 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HasStringMatchVirtusa",
+            "request": "launch",
+            "mainClass": "hackerrank.HasStringMatchVirtusa",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaComparable",
+            "request": "launch",
+            "mainClass": "hackerrank.JavaComparable",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Covariant",
+            "request": "launch",
+            "mainClass": "hackerrank.Covariant",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balstream1",
+            "request": "launch",
+            "mainClass": "baeldung.balstream1",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balarraytoset",
+            "request": "launch",
+            "mainClass": "baeldung.balarraytoset",
+            "projectName": "javavs"
+        },
+        {
             "type": "java",
             "name": "CodeLens (Launch) - balarraytolist",
             "request": "launch",
