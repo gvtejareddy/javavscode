@@ -19,11 +19,12 @@ public class HasStringMatchVirtusa {
             }
         }
         return returnVal;
-    }}
+    }
 
-    private static final Scanner scanner = new Scanner(System.in);
+   
 
     public static void main(String[] args) throws IOException {
+        Scanner scanner = new Scanner(System.in);
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 
         int q = scanner.nextInt();
