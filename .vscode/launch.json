@@ -5,6 +5,69 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch ExtendsMain",
+            "request": "launch",
+            "mainClass": "interview.Extends.ExtendsMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FinalClass",
+            "request": "launch",
+            "mainClass": "interview.FinalClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticVarMethodTwo",
+            "request": "launch",
+            "mainClass": "interview.StaticPack.StaticVarMethodTwo",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticClass",
+            "request": "launch",
+            "mainClass": "interview.StaticPack.StaticClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch AccessClass",
+            "request": "launch",
+            "mainClass": "interview.Modifiers.AccessClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateandTime",
+            "request": "launch",
+            "mainClass": "interview.DateandTime",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListPrac",
+            "request": "launch",
+            "mainClass": "interview.ArrayListPrac",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraysPrac",
+            "request": "launch",
+            "mainClass": "interview.ArraysPrac",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arrays",
+            "request": "launch",
+            "mainClass": "interview.Arrays",
+            "projectName": "javavs"
+        },
+        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",
