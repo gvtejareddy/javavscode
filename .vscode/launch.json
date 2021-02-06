@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SortingStudentCustom",
+            "request": "launch",
+            "mainClass": "interview.Sorting.SortingStudentCustom",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortingStudent",
+            "request": "launch",
+            "mainClass": "interview.Sorting.SortingStudent",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortingMain",
+            "request": "launch",
+            "mainClass": "interview.Sorting.SortingMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionMain",
+            "request": "launch",
+            "mainClass": "interview.ExceptionsClass.ExceptionMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "interview.ExceptionsClass.Book",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolyMain",
+            "request": "launch",
+            "mainClass": "interview.PolymorphisRuntime.PolyMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch BicycleMain",
+            "request": "launch",
+            "mainClass": "interview.BicycleInheritance.BicycleMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch ExtendsMain",
             "request": "launch",
             "mainClass": "interview.Extends.ExtendsMain",
