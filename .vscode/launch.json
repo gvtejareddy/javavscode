@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StreamMerge",
+            "request": "launch",
+            "mainClass": "interview.Java8.StreamMerge",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamOne",
+            "request": "launch",
+            "mainClass": "interview.Java8.StreamOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch SortingStudentCustom",
             "request": "launch",
             "mainClass": "interview.Sorting.SortingStudentCustom",
