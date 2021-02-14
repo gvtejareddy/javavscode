@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch EnumSet",
+            "request": "launch",
+            "mainClass": "interview.Collections.EnumSet",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConsumerJava8",
+            "request": "launch",
+            "mainClass": "interview.fuctionalInterface.ConsumerJava8",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch MultiThreadingThree",
             "request": "launch",
             "mainClass": "interview.MultiThreading.MultiThreadingThree",
