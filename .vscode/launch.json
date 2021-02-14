@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MultiThreadingThree",
+            "request": "launch",
+            "mainClass": "interview.MultiThreading.MultiThreadingThree",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "interview.MultiThreading.App",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadingOne",
+            "request": "launch",
+            "mainClass": "interview.MultiThreading.MultiThreadingOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapSingleton",
+            "request": "launch",
+            "mainClass": "interview.Collections.HashMapSingleton",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatedWords",
+            "request": "launch",
+            "mainClass": "hackerrank.RepeatedWords",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch StreamMerge",
             "request": "launch",
             "mainClass": "interview.Java8.StreamMerge",
