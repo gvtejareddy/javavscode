@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch HashCodePrac",
+            "request": "launch",
+            "mainClass": "interview.Collections.HashCodePrac",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch EnumSet",
             "request": "launch",
             "mainClass": "interview.Collections.EnumSet",
