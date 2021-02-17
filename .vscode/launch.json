@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DiamondMain",
+            "request": "launch",
+            "mainClass": "interviewpack.DiamondProblem.DiamondMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MutipleCatch",
+            "request": "launch",
+            "mainClass": "interviewpack.Exceptions.MutipleCatch",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryExceptionThrows",
+            "request": "launch",
+            "mainClass": "interviewpack.Exceptions.TryExceptionThrows",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch TryExceptionThrow",
+            "request": "launch",
+            "mainClass": "interviewpack.Exceptions.TryExceptionThrow",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceMain",
+            "request": "launch",
+            "mainClass": "interviewpack.Inheritance.InheritanceMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CompileTimePloymorphism",
+            "request": "launch",
+            "mainClass": "interviewpack.Polymorphism.CompileTimePloymorphism",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolymorphismMain",
+            "request": "launch",
+            "mainClass": "interviewpack.Polymorphism.PolymorphismMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractionMain",
+            "request": "launch",
+            "mainClass": "interviewpack.Abstraction.AbstractionMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch EncapsulationMain",
+            "request": "launch",
+            "mainClass": "interviewpack.Encapsulation.EncapsulationMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch HashCodePrac",
             "request": "launch",
             "mainClass": "interview.Collections.HashCodePrac",
