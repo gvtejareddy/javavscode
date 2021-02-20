@@ -13,4 +13,19 @@ public class CustomMyException extends Exception {
         System.out.println(message);
     }
 
+    public CustomMyException() {
+    }
+
+    public CustomMyException(Throwable cause) {
+        super(cause);
+    }
+
+    public CustomMyException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public CustomMyException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
+        super(message, cause, enableSuppression, writableStackTrace);
+    }
+
 }

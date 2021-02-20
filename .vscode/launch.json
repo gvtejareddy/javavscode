@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ListInsideList",
+            "request": "launch",
+            "mainClass": "hackerrank.ListInsideList",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MethodOverloading",
+            "request": "launch",
+            "mainClass": "interview.MethodOverloading",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch NearestConservtiveNumber",
+            "request": "launch",
+            "mainClass": "hackerrank.NearestConservtiveNumber",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch DiamondMain",
             "request": "launch",
             "mainClass": "interviewpack.DiamondProblem.DiamondMain",
