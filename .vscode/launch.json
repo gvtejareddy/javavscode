@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StreamForeach",
+            "request": "launch",
+            "mainClass": "interviewpack.Java8.StreamForeach",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionalInterfaceMain",
+            "request": "launch",
+            "mainClass": "interviewpack.Java8.FunctionalInterfaceMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch ListInsideList",
             "request": "launch",
             "mainClass": "hackerrank.ListInsideList",
