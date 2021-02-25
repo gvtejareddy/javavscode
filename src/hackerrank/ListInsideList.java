@@ -17,8 +17,14 @@ public class ListInsideList {
             newListofListStudent.add(addPlayerList);
         });
 
-        List<Player> listofPlayer = newListofListStudent.stream().flatMap(list -> list.stream())
-                .collect(Collectors.toList());
+        List<Player> listofPlayer = newListofListStudent.stream().flatMap(list -> list.stream().filter((a) -> {
+
+            if (a.getName().contains("a") && a.getScore() > 2) {
+                return false;
+            } else {
+                return true;
+            }
+        })).collect(Collectors.toList());
 
         listofPlayer.stream().forEach((a) -> {
             System.out.println(a.score);

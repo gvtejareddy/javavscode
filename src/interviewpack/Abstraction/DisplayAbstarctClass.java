@@ -14,6 +14,8 @@ public abstract class DisplayAbstarctClass {
         System.out.println("Display Final");
     };
 
+    private String newnumber = "10";
+
 }
 
 // only have have public or protected

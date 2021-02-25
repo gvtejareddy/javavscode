@@ -3,7 +3,10 @@ package interviewpack.Java8;
 public class FunctionalInterfaceMain implements OneMoreFunctionalInterface {
 
     public static void main(String[] args) {
-        
+
+        int a = 10;
+        Integer b = a;
+
         MyFuctionalInterface myFuctionalInterface = new MyFuctionalInterface() {
             @Override
             public void display() {
@@ -33,7 +36,5 @@ public class FunctionalInterfaceMain implements OneMoreFunctionalInterface {
         // TODO Auto-generated method stub
         return a * a;
     }
-
-  
 
 }
