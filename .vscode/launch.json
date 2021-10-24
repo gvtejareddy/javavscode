@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "leetcode.LongestCommonPrefix",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch twosum",
+            "request": "launch",
+            "mainClass": "leetcode.twosum",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch PrePostIncrement",
             "request": "launch",
             "mainClass": "hackerrank.PrePostIncrement",
