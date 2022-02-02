@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StringPool",
+            "request": "launch",
+            "mainClass": "interview.StringPool",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraysjava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.Arraysjava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsJava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.StringsJava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myswan",
+            "request": "launch",
+            "mainClass": "interviewsettwo.Myswan",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch onemoreclass",
+            "request": "launch",
+            "mainClass": "interviewsettwo.onemoreclass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstJava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.FirstJava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "ds.Recursion.Fibonacci",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "ds.Factorial",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursivefoo",
+            "request": "launch",
+            "mainClass": "ds.Recursivefoo",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch LongestCommonPrefix",
             "request": "launch",
             "mainClass": "leetcode.LongestCommonPrefix",
