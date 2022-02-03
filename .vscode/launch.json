@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThreadApp",
+            "request": "launch",
+            "mainClass": "TechLead.MultiThreading.ThreadApp",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch StringPool",
             "request": "launch",
             "mainClass": "interview.StringPool",
