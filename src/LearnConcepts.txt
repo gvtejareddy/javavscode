@@ -32,3 +32,15 @@ d. Tree
 21 .junit . mockito
 22.
  
+
+ Genpact : 
+
+ 1. Difference between comparabale and comparator 
+ 2. how to call static block 
+ 3. @ControllerAdvice 
+ 4. Difference between @RestController and @ControllerAdvice
+ 5. First level and second level cache 
+ 6. Creat global exception util
+ 7. set and map 
+ 8 .contract fot equal and hashcode
+ 9. partition in DB
