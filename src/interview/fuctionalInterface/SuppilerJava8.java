@@ -7,7 +7,7 @@ public class SuppilerJava8 {
     public static void main(String[] args) {
         Supplier<String> supplier = ()-> "a"; // no argument but return a value
 
-        supplier.get();
+       System.out.println( supplier.get());
 
 
     }

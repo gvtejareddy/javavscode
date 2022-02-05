@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StreamOneTran",
+            "request": "launch",
+            "mainClass": "TechLead.StreamOneTran",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuppilerJava8",
+            "request": "launch",
+            "mainClass": "interview.fuctionalInterface.SuppilerJava8",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch myRun",
+            "request": "launch",
+            "mainClass": "TechLead.FunctionalInterface.myRun",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunSingleTon",
+            "request": "launch",
+            "mainClass": "TechLead.RunSingleTon",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch ThreadApp",
             "request": "launch",
             "mainClass": "TechLead.MultiThreading.ThreadApp",
