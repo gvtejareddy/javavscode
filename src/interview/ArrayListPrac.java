@@ -9,8 +9,16 @@ public class ArrayListPrac {
     public static void main(String[] args) {
         Integer[] numbers = { 12, 14, 6, 8 };
         List<Integer> newnumbersList = Arrays.asList(numbers); // Convert array to arraylist
+        List newNewList = new ArrayList();
         List<String> list = Arrays.asList("one", "two");
         System.out.println(newnumbersList);
+       
+        newNewList.add(10);
+        newNewList.add("10a");
+
+        newNewList.stream().forEach((o)->{
+            System.out.println(o);
+        });
 
         newnumbersList.stream().forEach((o) -> {
             System.out.println(o);
