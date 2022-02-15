@@ -7,5 +7,9 @@ public class Swan extends Animal{
         // TODO Auto-generated method stub
         return "Swan";
     }
+    public void eat(){
+
+        System.out.println("Override eat");
+    }
     
 }

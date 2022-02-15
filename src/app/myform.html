@@ -1,0 +1,49 @@
+
+//username //password ( 8 chart , atleast one upster . one lower case , one number and one special chartcter ) 
+
+// eight charcter 
+
+<form  [formgroup]="myForm">
+
+    <input formcontrol="username"  name="username" type="text" ></input>
+<input formcontroel="password" name="password" type="password"><input>
+
+<button (click)="submit()"></button>
+</form>
+
+@Component 
+
+
+myForm:FormGroup 
+
+
+click(){
+
+let password = myForm.getControl("password").getValue();
+
+let passwordArray[] = password.split("");
+
+if(passwordArray.length >8 ){
+
+    for( let i =0 ;i<passwordArray.length ;i++){
+
+        if(!isNaN(passwordArray[i])){
+                myform.getControl("password").valid= true;
+        }
+        else if(myform.getControl("password").valid && (passwordArray[i]==='$' || passwordArray[i]==='@')) ){
+            myform.getControl("password").valid= true;
+        }
+        else if(myform.getControl("password").valid && passwordArray[i].toUpperCase()){
+            myform.getControl("password").valid= true;
+
+        }
+        else if(myform.getControl("password").valid && passwordArray[i].lowerCase()){
+            myform.getControl("password").valid= true;
+        }
+        else{
+            myform.getControl("password").valid= false;
+        }
+
+    }
+}
+}

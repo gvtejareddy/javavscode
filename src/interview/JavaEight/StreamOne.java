@@ -14,7 +14,6 @@ public class StreamOne {
 	
 	public static void main (String args[]) {
 	
-	
 		
 	}
 	
