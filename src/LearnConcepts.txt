@@ -1,4 +1,5 @@
 1. Primitive and non privitive types 
+1. Class loaders, jvm , jre and jdk, memories in java 
 2. Grabage Collections 
 3. Strings , String  builders , string buffers , heap and constant pool, immutability
 4. Access modifiers 
@@ -52,3 +53,13 @@ d. Tree
  4. Folder-file strcuture design patterns 
  5 . dba query 
  6.Syncrioize
+
+
+ manager round :
+hi 
+
+ 1. Design pateerns 
+ 2. Artiecture  
+ 3. cicd
+ 4. system design 
+ 5. sass

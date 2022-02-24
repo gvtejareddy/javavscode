@@ -32,4 +32,12 @@ public class Student implements Comparable<Student> {
         return o.score-this.score;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        // TODO Auto-generated method stub
+        return super.equals(obj);
+    }
+
+    
+
 }
