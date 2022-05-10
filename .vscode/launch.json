@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ContructorPartOne",
+            "request": "launch",
+            "mainClass": "interview.ContructorPartOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrivateClass",
+            "request": "launch",
+            "mainClass": "interview.PrivateClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindSecondHeightestValue",
+            "request": "launch",
+            "mainClass": "interviewpack.FindSecondHeightestValue",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoDarray",
+            "request": "launch",
+            "mainClass": "leetcode.TwoDarray",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch AppOne",
+            "request": "launch",
+            "mainClass": "multithreading.AppOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch LongestCommonPrefix",
             "request": "launch",
             "mainClass": "leetcode.LongestCommonPrefix",

@@ -14,4 +14,7 @@ public class Lion extends Animal {
 
     }
 
+    public Integer getAge(){
+      return super.getAge()+2;  
+    }
 }

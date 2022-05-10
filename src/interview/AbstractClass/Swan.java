@@ -8,4 +8,7 @@ public class Swan extends Animal{
         return "Swan";
     }
     
+    public void runget(){
+     eat();   
+    }
 }
