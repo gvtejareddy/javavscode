@@ -13,6 +13,7 @@ public class HashMapSingleton {
         newMap = Collections.singletonMap("teja", 20);
         try {
             newMap.put("key", 45);
+            newMap.put("key",56);
         } catch (Exception e) {
             System.out.println(e);
         }

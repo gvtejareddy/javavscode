@@ -13,7 +13,19 @@ public class EnumSet {
           for (Level myVar : Level.values()) {
             System.out.println(myVar);
           }
+
+          for(newLevel mylLevel : newLevel.values()){
+            System.out.println(mylLevel);
+          }
+
+          
       }
 
     
+
+      enum newLevel{
+
+        APPLE,
+        MANGO,
+      }
 }

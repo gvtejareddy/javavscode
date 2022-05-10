@@ -35,9 +35,12 @@ public class StreamForeach {
         });
 
         Integer result = newList.stream().reduce(2,(a,b)->a+b);
-        System.out.println(result);
+        System.out.println("resut"+result);
 
+myMap.entrySet().stream().forEach((key)->{
 
+    System.out.println(key.getKey() +" "+key.getValue());
+});
         
     }
 }

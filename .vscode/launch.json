@@ -6,37 +6,235 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch ContructorPartOne",
             "request": "launch",
             "mainClass": "interview.ContructorPartOne",
+=======
+            "name": "Launch AB",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.AB",
+>>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch PrivateClass",
             "request": "launch",
             "mainClass": "interview.PrivateClass",
+=======
+            "name": "Launch Anargaram",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.Anargaram",
+>>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch FindSecondHeightestValue",
             "request": "launch",
             "mainClass": "interviewpack.FindSecondHeightestValue",
+=======
+            "name": "Launch TestEpam",
+            "request": "launch",
+            "mainClass": "app.TestEpam",
+>>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch TwoDarray",
             "request": "launch",
             "mainClass": "leetcode.TwoDarray",
+=======
+            "name": "Launch FlatMap",
+            "request": "launch",
+            "mainClass": "TechLead.Collections.ArrayList.FlatMap",
+>>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Launch AppOne",
             "request": "launch",
             "mainClass": "multithreading.AppOne",
+=======
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch GarbageCollector",
+            "request": "launch",
+            "mainClass": "interview.GarbageCollector",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Finalizer",
+            "request": "launch",
+            "mainClass": "interview.Finalizer",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch DuplicateChars",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.DuplicateChars",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlaindromeJava",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.PlaindromeJava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountNumberOfWordUsingHashMap",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.CountNumberOfWordUsingHashMap",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwapTwoNumbers",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.SwapTwoNumbers",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseString",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.ReverseString",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "app.Test",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CountOfString",
+            "request": "launch",
+            "mainClass": "app.CountOfString",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sumtwo",
+            "request": "launch",
+            "mainClass": "app.Sumtwo",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamOneTran",
+            "request": "launch",
+            "mainClass": "TechLead.StreamOneTran",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SuppilerJava8",
+            "request": "launch",
+            "mainClass": "interview.fuctionalInterface.SuppilerJava8",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch myRun",
+            "request": "launch",
+            "mainClass": "TechLead.FunctionalInterface.myRun",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch RunSingleTon",
+            "request": "launch",
+            "mainClass": "TechLead.RunSingleTon",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadApp",
+            "request": "launch",
+            "mainClass": "TechLead.MultiThreading.ThreadApp",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringPool",
+            "request": "launch",
+            "mainClass": "interview.StringPool",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraysjava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.Arraysjava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringsJava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.StringsJava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myswan",
+            "request": "launch",
+            "mainClass": "interviewsettwo.Myswan",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch onemoreclass",
+            "request": "launch",
+            "mainClass": "interviewsettwo.onemoreclass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch FirstJava",
+            "request": "launch",
+            "mainClass": "interviewsettwo.FirstJava",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "ds.Recursion.Fibonacci",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "ds.Factorial",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursivefoo",
+            "request": "launch",
+            "mainClass": "ds.Recursivefoo",
+>>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {

@@ -1,0 +1,65 @@
+1. Primitive and non privitive types , auto boxing and casting
+1. Class loaders, jvm , jre and jdk, memories in java 
+2. Grabage Collections 
+3. Strings , String  builders , string buffers , heap and constant pool, immutability
+4. Access modifiers 
+5.Static , final , overriding , overloading
+6.Constructors
+7.Immuntable Classes
+8.Abstract and interface
+9.Abstarction , polymorphism , intehertiacne , encapuslation 
+10 . Multithreading 
+		a. Different ways to intialise threads
+		b. Volatile
+		c. thread.join()
+	d.deadlocks
+	e.synronised 
+	f.wait and notify and notiyf call 
+
+11. Collections 
+a. Arraylist 
+b. Set
+c. Map
+d. Tree
+12. Generics 
+13. java 8 
+14. spring 
+15.spring boot
+16.hibernate ,jpa
+17.microservices
+18. angular 
+19.docker 
+20.design patterns 
+21 .junit . mockito
+22.
+ 
+
+ Genpact : 
+
+ 1. Difference between comparabale and comparator 
+ 2. how to call static block 
+ 3. @ControllerAdvice 
+ 4. Difference between @RestController and @Controller
+ 5. First level and second level cache 
+ 6. Creat global exception util
+ 7. set and map 
+ 8 .contract fot equal and hashcode
+ 9. partition in DB
+
+ jpmc:
+ 1. Immuntable Class
+ 2. Serilaistion and de serliazation 
+ 3. Sington Class
+ 4. Folder-file strcuture design patterns 
+ 5 . dba query 
+ 6.Syncrioize
+
+
+ manager round :
+hi 
+
+ 1. Design pateerns 
+ 2. Artiecture  
+ 3. cicd
+ 4. system design 
+ 5. sass
