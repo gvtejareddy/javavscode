@@ -1,6 +1,6 @@
 package interviewsettwo;
 
-import java.io.ObjectInputFilter.Status;
+
 
 public class Arraysjava {
     private static int myArrays [] = {2,3};
