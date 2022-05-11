@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Points",
+            "request": "launch",
+            "mainClass": "hackerrank.ProblemSolving.Points",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch AB",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.AB",
