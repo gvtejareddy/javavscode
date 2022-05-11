@@ -13,6 +13,7 @@ public class ExtendsMain {
         System.out.println(newAnimal1.getAge());
 
         System.out.println(newlion.getAge());
+        System.out.println(newlion.roar());
         
     }
     

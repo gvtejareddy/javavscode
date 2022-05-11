@@ -14,6 +14,8 @@ public class Animal {
      * @return Integer return the age
      */
     public Integer getAge() {
+        System.out.println("ANIMAL AGE");
+
         return age;
     }
 

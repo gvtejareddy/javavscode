@@ -12,4 +12,7 @@ public class Swan extends Animal{
         System.out.println("Override eat");
     }
     
+    public void runget(){
+     eat();   
+    }
 }
