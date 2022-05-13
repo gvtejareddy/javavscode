@@ -1,11 +1,11 @@
 1. Primitive and non privitive types , auto boxing and casting
-1. Class loaders, jvm , jre and jdk, memories in java 
-2. Grabage Collections 
+1. Class loaders, jvm , jre and jdk, memories in java ,ClassNotFoundException vs NoClassDefFoundError
+2. Grabage Collections ,different in jvm
 3. Strings , String  builders , string buffers , heap and constant pool, immutability
 4. Access modifiers 
 5.Static , final , overriding , overloading
 6.Constructors
-7.Immuntable Classes
+7.Immuntable Classes, Sington, final class , inner classes
 8.Abstract and interface
 9.Abstarction , polymorphism , intehertiacne , encapuslation 
 10 . Multithreading 
