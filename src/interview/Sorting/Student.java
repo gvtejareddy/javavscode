@@ -27,15 +27,18 @@ public class Student implements Comparable<Student> {
         this.name = name;
     }
 
-    @Override
-    public int compareTo(Student o) {
-        return o.score-this.score;
-    }
+  
 
     @Override
     public boolean equals(Object obj) {
         // TODO Auto-generated method stub
         return super.equals(obj);
+    }
+
+    @Override
+    public int compareTo(Student o) {
+        // TODO Auto-generated method stub
+        return 0;
     }
 
     
