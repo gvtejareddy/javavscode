@@ -6,63 +6,158 @@
     "configurations": [
         {
             "type": "java",
-<<<<<<< HEAD
+            "name": "Launch Points",
+            "request": "launch",
+            "mainClass": "hackerrank.ProblemSolving.Points",
+            "name": "Launch OverseasDeadlock",
+            "request": "launch",
+            "mainClass": "Overseas.OverseasDeadlock",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch ContructorPartOne",
             "request": "launch",
             "mainClass": "interview.ContructorPartOne",
-=======
+            "name": "Launch OverseasMultiThreading",
+            "request": "launch",
+            "mainClass": "Overseas.OverseasMultiThreading",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractImplement",
+            "request": "launch",
+            "mainClass": "Overseas.AbstractImplement",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisandSuper",
+            "request": "launch",
+            "mainClass": "Overseas.ThisandSuper",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallStatic",
+            "request": "launch",
+            "mainClass": "Overseas.CallStatic",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch GpaScanner",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.GpaScanner",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToInt",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.StringToInt",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.BubbleSort",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestToys",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.BestToys",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAnInteger",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.ReverseAnInteger",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateDeadLock",
+            "request": "launch",
+            "mainClass": "TechLead.CreateDeadLock",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapOne",
+            "request": "launch",
+            "mainClass": "TechLead.Collections.ArrayList.HashMapOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch myNewClass",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.myNewClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myname",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.Myname",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeMain",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.EmployeeMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewStringOne",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.NewStringOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch AB",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.AB",
->>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "Launch PrivateClass",
             "request": "launch",
             "mainClass": "interview.PrivateClass",
-=======
             "name": "Launch Anargaram",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.Anargaram",
->>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "Launch FindSecondHeightestValue",
-            "request": "launch",
-            "mainClass": "interviewpack.FindSecondHeightestValue",
-=======
             "name": "Launch TestEpam",
             "request": "launch",
             "mainClass": "app.TestEpam",
->>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "Launch TwoDarray",
             "request": "launch",
             "mainClass": "leetcode.TwoDarray",
-=======
             "name": "Launch FlatMap",
             "request": "launch",
             "mainClass": "TechLead.Collections.ArrayList.FlatMap",
->>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {
             "type": "java",
-<<<<<<< HEAD
-            "name": "Launch AppOne",
-            "request": "launch",
-            "mainClass": "multithreading.AppOne",
-=======
             "name": "Launch App",
             "request": "launch",
             "mainClass": "app.App",
@@ -234,7 +329,6 @@
             "name": "Launch Recursivefoo",
             "request": "launch",
             "mainClass": "ds.Recursivefoo",
->>>>>>> e590db89f4fd4839dbdbb30f9b1652327f61fb31
             "projectName": "javavs"
         },
         {

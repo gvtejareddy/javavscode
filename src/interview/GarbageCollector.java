@@ -1,7 +1,7 @@
 package interview;
 
 public class GarbageCollector {
-	 public void finalize(){System.out.println("object is garbage collected");}  
+	 public void finalize(){System.out.println("finalize triggered");}  
 	 public static void main(String args[]){  
 		 GarbageCollector s1=new GarbageCollector();  
 		 GarbageCollector s2=new GarbageCollector();  

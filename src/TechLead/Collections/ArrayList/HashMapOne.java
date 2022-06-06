@@ -20,6 +20,11 @@ public class HashMapOne {
 
             System.out.println(key+" "+value);
         });
+
+        myMap.entrySet().stream().forEach((x->{
+
+            System.out.println(x.getKey()+" "+x.getValue());
+        }));
     }
     
 }
