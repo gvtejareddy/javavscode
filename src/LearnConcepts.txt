@@ -5,7 +5,7 @@
 4. Access modifiers 
 5.Static , final , overriding , overloading,
 6.Constructors
-7.Immuntable Classes, Sington, final class , inner classes
+7.Immuntable Classes, Sington, final class , inner classes, serilaizable and clonaable 
 8.Abstract and interface
 9.Abstarction , polymorphism , intehertiacne , encapuslation 
 10 . Multithreading 

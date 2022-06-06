@@ -13,8 +13,9 @@ public class StreamOne {
 	Stream<String> newStringStream = newStrinArray.stream();
 	
 	public static void main (String args[]) {
-	
-		
+
+		StreamOne streamone = new StreamOne();
+		System.out.println(streamone.streamEmpty instanceof List );
 	}
 	
 	

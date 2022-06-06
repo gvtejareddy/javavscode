@@ -1,9 +1,5 @@
 package TechLead.ProgrammingQuestions;
 
-import javax.swing.plaf.metal.MetalBorders.Flush3DBorder;
-import javax.swing.text.StyledEditorKit.BoldAction;
-import javax.swing.text.html.HTMLDocument.HTMLReader.IsindexAction;
-
 public class PlaindromeJava {
     
 
