@@ -22,12 +22,8 @@ for (String string : myStringArray) {
     }
     else{
         myHashmap.put(string, 1);
-    }
-
-   
+    }  
 }
-
-
 System.out.println(myHashmap.toString());
     
 }

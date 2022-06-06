@@ -9,6 +9,9 @@
             "name": "Launch Points",
             "request": "launch",
             "mainClass": "hackerrank.ProblemSolving.Points",
+            "name": "Launch OverseasDeadlock",
+            "request": "launch",
+            "mainClass": "Overseas.OverseasDeadlock",
             "projectName": "javavs"
         },
         {
@@ -16,6 +19,111 @@
             "name": "Launch ContructorPartOne",
             "request": "launch",
             "mainClass": "interview.ContructorPartOne",
+            "name": "Launch OverseasMultiThreading",
+            "request": "launch",
+            "mainClass": "Overseas.OverseasMultiThreading",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractImplement",
+            "request": "launch",
+            "mainClass": "Overseas.AbstractImplement",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThisandSuper",
+            "request": "launch",
+            "mainClass": "Overseas.ThisandSuper",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CallStatic",
+            "request": "launch",
+            "mainClass": "Overseas.CallStatic",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch GpaScanner",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.GpaScanner",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToInt",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.StringToInt",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch BubbleSort",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.BubbleSort",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch BestToys",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.BestToys",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseAnInteger",
+            "request": "launch",
+            "mainClass": "TechLead.ProgrammingQuestions.ReverseAnInteger",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateDeadLock",
+            "request": "launch",
+            "mainClass": "TechLead.CreateDeadLock",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch HashMapOne",
+            "request": "launch",
+            "mainClass": "TechLead.Collections.ArrayList.HashMapOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch myNewClass",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.myNewClass",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Myname",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.Myname",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch EmployeeMain",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.EmployeeMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch NewStringOne",
+            "request": "launch",
+            "mainClass": "LastOneMonthPreparation.One.NewStringOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch AB",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.AB",

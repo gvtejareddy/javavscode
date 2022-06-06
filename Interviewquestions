@@ -1,0 +1,12 @@
+Tavant
+1. 
+    input = {0,1,0,1,1,0} 
+    output =0,0,0,1,1,1}
+2. Linkedlsit make pair swap 
+
+3. Difference between set and list 
+4. Immutable class
+5. hibernate locking and unlocking
+6. resttemplate vs webclient 
+7. hibernate n+1 problem 
+8. @Conditional
