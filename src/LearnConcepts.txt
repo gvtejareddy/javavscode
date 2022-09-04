@@ -20,6 +20,7 @@
 
 10 . exception handling 
 11. Collections 
+12. comparator and comparabale
 a. Arraylist 
 b. Set
 c. Map

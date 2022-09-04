@@ -12,6 +12,17 @@ public class Test {
         System.out.println(getMinCuts(nums1));
         System.out.println(getMinCuts(nums2));
         System.out.println(getMinCuts(nums3));
+        Animal animal = new Animal() {
+
+            @Override
+            public String getName() {
+                // TODO Auto-generated method stub
+                return null;
+            }
+            
+        };
+
+        animal.eat();
     }
     
     private static int getMinCuts(int[] A) {

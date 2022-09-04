@@ -8,4 +8,5 @@ public abstract class Abstractclass {
     public void getName(){
         System.out.println("Name is eating"); 
     }
+    public abstract void display();
 }

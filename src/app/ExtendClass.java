@@ -1,6 +1,6 @@
 package app;
 
-public class ExtendClass implements LearnInterface{
+public class ExtendClass extends Abstractclass implements LearnInterface{
 
     @Override
     public void eat() {
@@ -12,6 +12,12 @@ public class ExtendClass implements LearnInterface{
     public void getName() {
         // TODO Auto-generated method stub
 
+    }
+
+    @Override
+    public void display() {
+        // TODO Auto-generated method stub
+        
     }
 
 
