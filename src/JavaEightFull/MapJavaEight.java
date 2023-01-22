@@ -18,5 +18,8 @@ public class MapJavaEight {
         mapJavaEight.student.entrySet().stream().forEach((x)->{
             System.out.println(x.getKey()+" "+x.getValue());
         });
+
+        mapJavaEight.student.keySet().forEach(x-> System.out.println(x.intValue()));
+        mapJavaEight.student.entrySet().stream().forEach((x)->{System.out.println(x.getKey()+" "+x.getValue());});
     }
 }

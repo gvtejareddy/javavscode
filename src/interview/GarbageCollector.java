@@ -1,7 +1,10 @@
 package interview;
 
+import java.sql.Time;
+import java.util.Date;
+
 public class GarbageCollector {
-	 public void finalize(){System.out.println("finalize triggered");}  
+	 public void finalize(){System.out.println("finalize triggered"+ new Date());}  
 	 public static void main(String args[]){  
 		 GarbageCollector s1=new GarbageCollector();  
 		 GarbageCollector s2=new GarbageCollector();  

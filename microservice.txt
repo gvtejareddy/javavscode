@@ -4,14 +4,14 @@
 
 
 microservice USER
---add spring eurka  client ( HOXTON.SR8)
+--add spring eurka  client ( HOXTON.SR8) 
 - Add eruka client
 @enableeurkaclient
 - provide config 
    - registry:true
 
-api gateway
--- add spring eurka deicover client 
+api gateway (zuul api gateway)
+-- add spring eurka deicover client  
 --- sping api routing gateway 
 
 routes : 
@@ -21,7 +21,7 @@ filter :
 --add circuit breaker config
 
 circuit breaker ( add this to api gateway code)
---add hystreix spring cloud ciruit breaker
+--add hystreix spring cloud ciruit breaker or resillence4j
 --hystreix service 
 --hystrex dahsboard
 :fallbackurl:/usefallback

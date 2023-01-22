@@ -11,6 +11,7 @@ public class DiamondMain implements InterfaceA, InterfaceB {
     public static void main(String[] args) {
 
         DiamondMain diamondMain = new DiamondMain();
+    
 
         diamondMain.display();
 

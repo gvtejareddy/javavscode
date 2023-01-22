@@ -5,6 +5,10 @@ package TechLead.FunctionalInterface;
 public interface FunctioanlInterfaceOne {
 
     void display();
+     
+    static void  newDisplay(){
+    System.out.println("test");
+}
     
 }
 
@@ -18,5 +22,14 @@ class myRun{
 
     myNew.display();
 
-    }
+    FunctioanlInterfaceOne fone= new FunctioanlInterfaceOne(){
+        @Override
+        public void display() {
+            // TODO Auto-generated method stub
+            
+        }
+    
+    };
+    
+}
 }

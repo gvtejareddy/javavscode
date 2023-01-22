@@ -12,7 +12,7 @@ public class BestToys {
         List<Integer> myList = Arrays.asList(1 ,12 ,5 ,111 ,200 ,1000 ,10);
     
         
-        System.out.println( maximumToys(myList,50));
+        System.out.println( maximumToys(myList,11));
     }
 
     public static int maximumToys(List<Integer> prices, int k) {

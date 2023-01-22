@@ -6,9 +6,104 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Launch Points",
+            "name": "Launch AnagramOne",
             "request": "launch",
-            "mainClass": "hackerrank.ProblemSolving.Points",
+            "mainClass": "TechLead.ProgrammingQuestions.AnagramOne",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeTwoList",
+            "request": "launch",
+            "mainClass": "TechLead.Collections.MergeTwoList",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadingNew",
+            "request": "launch",
+            "mainClass": "interview.MultiThreading.MultiThreadingNew",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticMain",
+            "request": "launch",
+            "mainClass": "interviewsettwo.StaticMain",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Stockadnqueries",
+            "request": "launch",
+            "mainClass": "hackerrank.Stockadnqueries",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch HighlyProfitable",
+            "request": "launch",
+            "mainClass": "hackerrank.HighlyProfitable",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abn",
+            "request": "launch",
+            "mainClass": "TechLead.Abn",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringImmutable",
+            "request": "launch",
+            "mainClass": "interview.StringImmutable",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch StoneWall",
+            "request": "launch",
+            "mainClass": "JavaEightFull.StoneWall",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumJavaEight",
+            "request": "launch",
+            "mainClass": "JavaEightFull.SumJavaEight",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapFunctionJavaEight",
+            "request": "launch",
+            "mainClass": "JavaEightFull.MapFunctionJavaEight",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapSortComparator",
+            "request": "launch",
+            "mainClass": "JavaEightFull.MapSortComparator",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch MapJavaEight",
+            "request": "launch",
+            "mainClass": "JavaEightFull.MapJavaEight",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Launch SortMapEight",
+            "request": "launch",
+            "mainClass": "JavaEightFull.SortMapEight",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch OverseasDeadlock",
             "request": "launch",
             "mainClass": "Overseas.OverseasDeadlock",
@@ -16,9 +111,6 @@
         },
         {
             "type": "java",
-            "name": "Launch ContructorPartOne",
-            "request": "launch",
-            "mainClass": "interview.ContructorPartOne",
             "name": "Launch OverseasMultiThreading",
             "request": "launch",
             "mainClass": "Overseas.OverseasMultiThreading",
@@ -131,9 +223,6 @@
         },
         {
             "type": "java",
-            "name": "Launch PrivateClass",
-            "request": "launch",
-            "mainClass": "interview.PrivateClass",
             "name": "Launch Anargaram",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.Anargaram",
@@ -148,9 +237,6 @@
         },
         {
             "type": "java",
-            "name": "Launch TwoDarray",
-            "request": "launch",
-            "mainClass": "leetcode.TwoDarray",
             "name": "Launch FlatMap",
             "request": "launch",
             "mainClass": "TechLead.Collections.ArrayList.FlatMap",

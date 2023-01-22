@@ -2,6 +2,7 @@ package TechLead.Collections;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import TechLead.Collections.ArrayList.Employee;
@@ -36,5 +37,11 @@ public class MergeTwoList {
            return server1;
         }))
         .collect(Collectors.toList());
+
+        List<Employee> mergeTwoList = newList.stream().filter(x-> {
+        Optional<Student> emp = newListStudent.stream().map(y->y).findFirst();
+        return emp.get() != null;
+        }).collect(Collectors.toList());
+        mergeTwoList.forEach(x->System.out.println(x.getName()));
     }
 }
