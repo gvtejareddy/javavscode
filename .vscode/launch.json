@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateUtil",
+            "request": "launch",
+            "mainClass": "Utils.DateUtil",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Indices",
+            "request": "launch",
+            "mainClass": "NL.Indices",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
+            "name": "Indices",
+            "request": "launch",
+            "mainClass": "Indices",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "Launch AnagramOne",
             "request": "launch",
             "mainClass": "TechLead.ProgrammingQuestions.AnagramOne",
