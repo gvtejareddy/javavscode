@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multithread",
+            "request": "launch",
+            "mainClass": "NL.Multithread",
+            "projectName": "javavs"
+        },
+        {
+            "type": "java",
             "name": "DateUtil",
             "request": "launch",
             "mainClass": "Utils.DateUtil",
